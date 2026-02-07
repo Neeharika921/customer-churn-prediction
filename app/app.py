@@ -3,9 +3,9 @@ import pandas as pd
 import joblib
 
 # Load model, scaler, and columns
-model = joblib.load("../models/churn_model.pkl")
-scaler = joblib.load("../models/scaler.pkl")
-model_columns = joblib.load("../models/model_columns.pkl")
+model = joblib.load("models/churn_model.pkl")
+scaler = joblib.load("models/scaler.pkl")
+model_columns = joblib.load("models/model_columns.pkl")
 
 st.title("Customer Churn Prediction App")
 
@@ -69,3 +69,6 @@ if st.button("Predict"):
         st.error("Customer is likely to Churn")
     else:
         st.success("Customer is likely to Stay")
+
+        st.success("Customer is likely to Stay")
+
