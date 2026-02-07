@@ -91,6 +91,46 @@ Accuracy achieved: ~78%
 \## Project Structure
 
 
+\## How to Run Locally
+
+Install dependencies:
+
+\- pip install -r requirements.txt
+
+Run Streamlit app:
+
+\- streamlit run app/app.py
+
+---
+
+## How It Works
+
+\- 1. User enters customer details  
+\- 2. Data is preprocessed and scaled  
+\- 3. Machine learning model predicts churn  
+\- 4. Result is shown in the web app  
+
+---
+
+## Business Impact
+
+This project helps companies:
+
+- Identify customers likely to churn  
+- Improve customer retention  
+- Reduce revenue loss  
+- Support business decision-making  
+
+---
+
+## Author
+
+Neeharika Kuppili  
+Data Science Student  
+GitHub: https://github.com/Neeharika921
+
+
+
 
 
 
