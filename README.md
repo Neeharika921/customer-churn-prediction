@@ -1,8 +1,8 @@
-\# Customer Churn Prediction System
+# Customer Churn Prediction System
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -18,7 +18,7 @@ Customer churn prediction helps companies improve customer retention and reduce 
 
 
 
-\## Features
+## Features
 
 
 
@@ -44,7 +44,7 @@ Customer churn prediction helps companies improve customer retention and reduce 
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
@@ -70,7 +70,7 @@ Customer churn prediction helps companies improve customer retention and reduce 
 
 
 
-\## Machine Learning Models Used
+## Machine Learning Models Used
 
 
 
@@ -88,27 +88,27 @@ Accuracy achieved: ~78%
 
 
 
-\## Project Structure
+## Project Structure
 
 
 \## How to Run Locally
 
 Install dependencies:
 
-\- pip install -r requirements.txt
+\ pip install -r requirements.txt
 
 Run Streamlit app:
 
-\- streamlit run app/app.py
+\ streamlit run app/app.py
 
 ---
 
 ## How It Works
 
-\- 1. User enters customer details  
-\- 2. Data is preprocessed and scaled  
-\- 3. Machine learning model predicts churn  
-\- 4. Result is shown in the web app  
+\ 1. User enters customer details  
+\ 2. Data is preprocessed and scaled  
+\ 3. Machine learning model predicts churn  
+\ 4. Result is shown in the web app  
 
 ---
 
@@ -128,6 +128,7 @@ This project helps companies:
 Neeharika Kuppili  
 Data Science Student  
 GitHub: https://github.com/Neeharika921
+
 
 
 
