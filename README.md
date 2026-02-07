@@ -95,20 +95,20 @@ Accuracy achieved: ~78%
 
 Install dependencies:
 
-\ pip install -r requirements.txt
+ pip install -r requirements.txt
 
 Run Streamlit app:
 
-\ streamlit run app/app.py
+ streamlit run app/app.py
 
 ---
 
 ## How It Works
 
-\ 1. User enters customer details  
-\ 2. Data is preprocessed and scaled  
-\ 3. Machine learning model predicts churn  
-\ 4. Result is shown in the web app  
+ 1. User enters customer details  
+ 2. Data is preprocessed and scaled  
+ 3. Machine learning model predicts churn  
+ 4. Result is shown in the web app  
 
 ---
 
@@ -128,6 +128,7 @@ This project helps companies:
 Neeharika Kuppili  
 Data Science Student  
 GitHub: https://github.com/Neeharika921
+
 
 
 
