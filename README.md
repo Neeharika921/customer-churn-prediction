@@ -103,6 +103,12 @@ Run Streamlit app:
 
 ---
 
+## Live App
+
+[https://customer-churn-prediction-mlwgaygskxjdfxpfebjb4d.streamlit.app](https://customer-churn-prediction-mlwgaygskxdjrxpfebjb4d.streamlit.app/)
+
+---
+
 ## How It Works
 
  1. User enters customer details  
@@ -128,6 +134,7 @@ This project helps companies:
 Neeharika Kuppili  
 Data Science Student  
 GitHub: https://github.com/Neeharika921
+
 
 
 
