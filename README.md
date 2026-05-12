@@ -1,94 +1,177 @@
-\# Customer Churn Prediction System
+# 📊 Customer Churn Intelligence Dashboard
 
-
-
-\## Project Overview
-
-
-
-This project predicts whether a customer is likely to churn (leave the service) or stay, using Machine Learning. It includes complete data analysis, model training, and deployment as a web application using Streamlit.
-
-
-
-Customer churn prediction helps companies improve customer retention and reduce revenue loss.
-
-
+A Machine Learning-powered web application that predicts customer churn risk and provides interactive analytics using Streamlit.
 
 ---
 
+## 🚀 Live Demo
 
+🔗 Streamlit App:  
+https://customer-churn-prediction-mlwgaygskxdjrxpfebjb4d.streamlit.app/
 
-\## Features
-
-
-
-\- Data cleaning and preprocessing
-
-\- Exploratory Data Analysis (EDA)
-
-\- Feature engineering and encoding
-
-\- Machine Learning model training (Logistic Regression, Random Forest)
-
-\- Model evaluation using accuracy and confusion matrix
-
-\- Model saving using joblib
-
-\- Interactive web application using Streamlit
-
-\- Real-time customer churn prediction
-
-
+🔗 GitHub Repository:  
+https://github.com/Neeharika921/customer-churn-prediction
 
 ---
 
+## 📌 Project Overview
 
+Customer churn prediction is one of the most important business problems in the telecom industry. This project helps identify customers who are likely to leave a service provider based on customer behavior, billing information, and subscription details.
 
-\## Technologies Used
+The project combines:
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Interactive Dashboard Deployment
 
-
-
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Scikit-learn
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Streamlit
-
-\- Joblib
-
-
+to deliver business insights and churn risk prediction.
 
 ---
 
+## 🛠️ Tech Stack
 
+### Programming Language
+- Python
 
-\## Machine Learning Models Used
+### Libraries & Frameworks
+- Pandas
+- NumPy
+- Scikit-learn
+- Plotly
+- Streamlit
+- Joblib
 
-
-
-\- Logistic Regression
-
-\- Random Forest Classifier
-
-
-
-Accuracy achieved: ~78%
-
-
+### Machine Learning Models
+- Logistic Regression
+- Random Forest Classifier
 
 ---
 
+## 📂 Dataset
 
+Dataset Used:
+- Telco Customer Churn Dataset
 
-\## Project Structure
+The dataset contains customer information such as:
+- Tenure
+- Monthly Charges
+- Total Charges
+- Internet Service
+- Contract Type
+- Payment Method
+- Churn Status
+
+---
+
+## ⚙️ Machine Learning Workflow
+
+### 1️⃣ Data Preprocessing
+- Removed unnecessary columns
+- Handled missing values
+- Converted data types
+- Applied one-hot encoding
+
+### 2️⃣ Exploratory Data Analysis
+- Churn distribution
+- Contract analysis
+- Billing analysis
+- Customer segmentation
+
+### 3️⃣ Model Training
+- Logistic Regression
+- Random Forest Classifier
+
+### 4️⃣ Model Evaluation
+Evaluation metrics used:
+- Accuracy Score
+- Confusion Matrix
+
+### 5️⃣ Deployment
+- Built interactive dashboard using Streamlit
+- Deployed on Streamlit Community Cloud
+
+---
+
+## 📈 Features
+
+✅ Customer churn prediction  
+✅ Interactive analytics dashboard  
+✅ Real-time prediction system  
+✅ Business insights visualization  
+✅ Clean modern UI  
+✅ Streamlit deployment  
+
+---
+
+## 📊 Dashboard Preview
+
+### Dashboard
+- Customer overview
+- Churn rate analysis
+- Monthly charge insights
+
+### Prediction Module
+Users can:
+- Enter customer details
+- Predict churn probability
+- Identify high-risk customers
+
+### Analytics Section
+- Churn distribution charts
+- Contract analysis
+- Service usage trends
+
+---
+
+## 🎯 Model Performance
+
+| Model | Accuracy |
+|---|---|
+| Logistic Regression | ~79% |
+| Random Forest | ~80% |
+
+Random Forest performed better and was selected for deployment.
+
+---
+
+## 🧠 Key Learnings
+
+Through this project, I learned:
+- Data preprocessing
+- Feature engineering
+- Classification algorithms
+- Model deployment
+- Streamlit UI development
+- End-to-end ML workflow
+
+---
+
+## 🔮 Future Improvements
+
+- SHAP explainability integration
+- Advanced feature engineering
+- XGBoost implementation
+- User authentication
+- Cloud database integration
+
+---
+
+## 👩‍💻 Author
+
+### Neeharika Kuppili
+Data Science Student | Machine Learning Enthusiast
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/neeharika-kuppili-665706289/
+
+🔗 GitHub:  
+https://github.com/Neeharika921
+
+---
+
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub!
 
 
 
